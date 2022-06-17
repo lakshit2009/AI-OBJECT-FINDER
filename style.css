@@ -1,0 +1,38 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.header
+{
+    width: 100%;
+    margin: 0px;
+    font-size: large;
+}
+
+.input_class
+{
+    color: green;
+    background-color: greenyellow;
+}
+
+.object_name_label
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+canvas
+{
+    border-radius: 10px;
+    background-color: blue;
+    box-shadow: 7px 7px 7px yellow;
+}
+
+p
+{
+    color: black;
+    margin-bottom: 0px;
+    font-size: small;
+}
